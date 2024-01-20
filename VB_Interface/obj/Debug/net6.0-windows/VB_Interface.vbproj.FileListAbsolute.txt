@@ -1,0 +1,59 @@
+C:\Article2\VB_Interface\VB_Interface\obj\Debug\net6.0-windows\VB_Interface.vbproj.AssemblyReference.cache
+C:\Article2\VB_Interface\VB_Interface\obj\Debug\net6.0-windows\VB_Interface.MainSetup.resources
+C:\Article2\VB_Interface\VB_Interface\obj\Debug\net6.0-windows\VB_Interface.vbproj.GenerateResource.cache
+C:\Article2\VB_Interface\VB_Interface\obj\Debug\net6.0-windows\VB_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Article2\VB_Interface\VB_Interface\obj\Debug\net6.0-windows\VB_Interface.AssemblyInfoInputs.cache
+C:\Article2\VB_Interface\VB_Interface\obj\Debug\net6.0-windows\VB_Interface.AssemblyInfo.vb
+C:\Article2\VB_Interface\VB_Interface\obj\Debug\net6.0-windows\VB_Interface.vbproj.CoreCompileInputs.cache
+C:\Article2\VB_Interface\VB_Interface\bin\Debug\net6.0-windows\VB_Interface.exe
+C:\Article2\VB_Interface\VB_Interface\bin\Debug\net6.0-windows\VB_Interface.deps.json
+C:\Article2\VB_Interface\VB_Interface\bin\Debug\net6.0-windows\VB_Interface.runtimeconfig.json
+C:\Article2\VB_Interface\VB_Interface\bin\Debug\net6.0-windows\VB_Interface.dll
+C:\Article2\VB_Interface\VB_Interface\bin\Debug\net6.0-windows\VB_Interface.pdb
+C:\Article2\VB_Interface\VB_Interface\obj\Debug\net6.0-windows\VB_Interface.dll
+C:\Article2\VB_Interface\VB_Interface\obj\Debug\net6.0-windows\refint\VB_Interface.dll
+C:\Article2\VB_Interface\VB_Interface\obj\Debug\net6.0-windows\VB_Interface.pdb
+C:\Article2\VB_Interface\VB_Interface\obj\Debug\net6.0-windows\VB_Interface.genruntimeconfig.cache
+C:\Article2\VB_Interface\VB_Interface\obj\Debug\net6.0-windows\ref\VB_Interface.dll
+D:\MyWork\Articles\With Sergei Alexandrovich\Sum-Product\VB_Interface\VB_Interface\obj\Debug\net6.0-windows\VB_Interface.vbproj.AssemblyReference.cache
+D:\MyWork\Articles\With Sergei Alexandrovich\Sum-Product\VB_Interface\VB_Interface\obj\Debug\net6.0-windows\VB_Interface.MainSetup.resources
+D:\MyWork\Articles\With Sergei Alexandrovich\Sum-Product\VB_Interface\VB_Interface\obj\Debug\net6.0-windows\VB_Interface.vbproj.GenerateResource.cache
+D:\MyWork\Articles\With Sergei Alexandrovich\Sum-Product\VB_Interface\VB_Interface\obj\Debug\net6.0-windows\VB_Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyWork\Articles\With Sergei Alexandrovich\Sum-Product\VB_Interface\VB_Interface\obj\Debug\net6.0-windows\VB_Interface.AssemblyInfoInputs.cache
+D:\MyWork\Articles\With Sergei Alexandrovich\Sum-Product\VB_Interface\VB_Interface\obj\Debug\net6.0-windows\VB_Interface.AssemblyInfo.vb
+D:\MyWork\Articles\With Sergei Alexandrovich\Sum-Product\VB_Interface\VB_Interface\obj\Debug\net6.0-windows\VB_Interface.vbproj.CoreCompileInputs.cache
+D:\MyWork\Articles\With Sergei Alexandrovich\Sum-Product\VB_Interface\VB_Interface\bin\Debug\net6.0-windows\VB_Interface.exe
+D:\MyWork\Articles\With Sergei Alexandrovich\Sum-Product\VB_Interface\VB_Interface\bin\Debug\net6.0-windows\VB_Interface.deps.json
+D:\MyWork\Articles\With Sergei Alexandrovich\Sum-Product\VB_Interface\VB_Interface\bin\Debug\net6.0-windows\VB_Interface.runtimeconfig.json
+D:\MyWork\Articles\With Sergei Alexandrovich\Sum-Product\VB_Interface\VB_Interface\bin\Debug\net6.0-windows\VB_Interface.dll
+D:\MyWork\Articles\With Sergei Alexandrovich\Sum-Product\VB_Interface\VB_Interface\bin\Debug\net6.0-windows\VB_Interface.pdb
+D:\MyWork\Articles\With Sergei Alexandrovich\Sum-Product\VB_Interface\VB_Interface\obj\Debug\net6.0-windows\VB_Interface.dll
+D:\MyWork\Articles\With Sergei Alexandrovich\Sum-Product\VB_Interface\VB_Interface\obj\Debug\net6.0-windows\refint\VB_Interface.dll
+D:\MyWork\Articles\With Sergei Alexandrovich\Sum-Product\VB_Interface\VB_Interface\obj\Debug\net6.0-windows\VB_Interface.pdb
+D:\MyWork\Articles\With Sergei Alexandrovich\Sum-Product\VB_Interface\VB_Interface\obj\Debug\net6.0-windows\VB_Interface.genruntimeconfig.cache
+D:\MyWork\Articles\With Sergei Alexandrovich\Sum-Product\VB_Interface\VB_Interface\obj\Debug\net6.0-windows\ref\VB_Interface.dll
+D:\MyWork\Articles\With Sergei Alexandrovich\Sum-Product\VB_Interface\VB_Interface\obj\Debug\net6.0-windows\VB_Interface.Costs.resources
+D:\MyWork\Articles\With Sergei Alexandrovich\Sum-Product\VB_Interface\VB_Interface\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\MyWork\Articles\With Sergei Alexandrovich\Sum-Product\VB_Interface\VB_Interface\obj\Debug\net6.0-windows\VB_Interface.vbproj.CopyComplete
+D:\MyWork\Articles\With Sergei Alexandrovich\Sum-Product\VB_Interface\VB_Interface\obj\Debug\net6.0-windows\VB_Interface.ShowRes.resources
+C:\Users\PierreMurr\Downloads\VB_Interface\VB_Interface\bin\Debug\net6.0-windows\VB_Interface.exe
+C:\Users\PierreMurr\Downloads\VB_Interface\VB_Interface\bin\Debug\net6.0-windows\VB_Interface.deps.json
+C:\Users\PierreMurr\Downloads\VB_Interface\VB_Interface\bin\Debug\net6.0-windows\VB_Interface.runtimeconfig.json
+C:\Users\PierreMurr\Downloads\VB_Interface\VB_Interface\bin\Debug\net6.0-windows\VB_Interface.dll
+C:\Users\PierreMurr\Downloads\VB_Interface\VB_Interface\bin\Debug\net6.0-windows\VB_Interface.pdb
+C:\Users\PierreMurr\Downloads\VB_Interface\VB_Interface\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\PierreMurr\Downloads\VB_Interface\VB_Interface\obj\Debug\net6.0-windows\VB_Interface.vbproj.AssemblyReference.cache
+C:\Users\PierreMurr\Downloads\VB_Interface\VB_Interface\obj\Debug\net6.0-windows\VB_Interface.Costs.resources
+C:\Users\PierreMurr\Downloads\VB_Interface\VB_Interface\obj\Debug\net6.0-windows\VB_Interface.MainSetup.resources
+C:\Users\PierreMurr\Downloads\VB_Interface\VB_Interface\obj\Debug\net6.0-windows\VB_Interface.ShowRes.resources
+C:\Users\PierreMurr\Downloads\VB_Interface\VB_Interface\obj\Debug\net6.0-windows\VB_Interface.vbproj.GenerateResource.cache
+C:\Users\PierreMurr\Downloads\VB_Interface\VB_Interface\obj\Debug\net6.0-windows\VB_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PierreMurr\Downloads\VB_Interface\VB_Interface\obj\Debug\net6.0-windows\VB_Interface.AssemblyInfoInputs.cache
+C:\Users\PierreMurr\Downloads\VB_Interface\VB_Interface\obj\Debug\net6.0-windows\VB_Interface.AssemblyInfo.vb
+C:\Users\PierreMurr\Downloads\VB_Interface\VB_Interface\obj\Debug\net6.0-windows\VB_Interface.vbproj.CoreCompileInputs.cache
+C:\Users\PierreMurr\Downloads\VB_Interface\VB_Interface\obj\Debug\net6.0-windows\VB_Interface.vbproj.CopyComplete
+C:\Users\PierreMurr\Downloads\VB_Interface\VB_Interface\obj\Debug\net6.0-windows\VB_Interface.dll
+C:\Users\PierreMurr\Downloads\VB_Interface\VB_Interface\obj\Debug\net6.0-windows\refint\VB_Interface.dll
+C:\Users\PierreMurr\Downloads\VB_Interface\VB_Interface\obj\Debug\net6.0-windows\VB_Interface.pdb
+C:\Users\PierreMurr\Downloads\VB_Interface\VB_Interface\obj\Debug\net6.0-windows\VB_Interface.genruntimeconfig.cache
+C:\Users\PierreMurr\Downloads\VB_Interface\VB_Interface\obj\Debug\net6.0-windows\ref\VB_Interface.dll
